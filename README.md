@@ -3,6 +3,7 @@
 
 Welcome! My name is Andrés. I am a software engineer and fintech professional based in Toronto and Berlin, well-versed in JavaScript and Python technologies.
 
+<br<br>
 
 <img src="./assets/js.png" width="40" display="inline-block"> <img src="./assets/typescript.png" width="40" display="inline-block"> <img src="./assets/react.png" width="40" display="inline-block">
 <img src="./assets/redux.png" width="40" display="inline-block">
@@ -13,3 +14,12 @@ Welcome! My name is Andrés. I am a software engineer and fintech professional b
 <img src="./assets/mdb.png" width="40" display="inline-block">
 <img src="./assets/python.jpeg" width="40" display="inline-block">
 <img src="./assets/pandas.png" width="40" display="inline-block">
+
+<br<br>
+
+I cannot wait to get my hands on:
+<a href="https://docs.soliditylang.org/en/v0.8.7/">Solidity</a>
+<p> - </p>
+<a href="https://www.cplusplus.com/">C++</a>
+<p> - </p>
+<a href="https://www.java.com/">C++</a>
