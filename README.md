@@ -18,3 +18,6 @@ Welcome! My name is Andrés. I am a software engineer and fintech professional b
 I cannot wait to get my hands on:
 <a href="https://docs.soliditylang.org/en/v0.8.7/" display="inline-block">Solidity</a>  -  <a href="https://www.cplusplus.com/">C++</a>  -  <a href="https://www.java.com/">Java</a>
 
+<p>👨‍💻 I am currently working on adding new features to AceOptions and refactoring to TypeScript.</p>
+
+<p>👉 In case you want to know more about me, please check out my <a href="https://www.linkedin.com/in/andresolivez/">LinkedIn</a> profile.</p>
