@@ -3,7 +3,7 @@
 
 Welcome! My name is Andrés. I am a software engineer and fintech professional based in Toronto and Berlin, well-versed in JavaScript and Python technologies.
 
-<p>Some of my favorite technologies are: </p>
+<p display="inline-block>Some of my favorite technologies are: </p>
 <img src="./assets/js.png" width="40" display="inline-block"> <img src="./assets/typescript.png" width="40" display="inline-block"> <img src="./assets/react.png" width="40" display="inline-block">
 <img src="./assets/redux.png" width="40" display="inline-block">
 <img src="./assets/49996085.png" width="40" display="inline-block">
