@@ -2,4 +2,4 @@
 
 I am Andrés, a software engineer based in Toronto and Berlin.
 
-![ Alt text](assets/typescript.png | width = 10)
+<img src="/assets/typescript" width="20">
