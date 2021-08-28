@@ -18,7 +18,7 @@ Welcome! My name is Andrés. I am a software engineer and fintech professional b
 <br<br>
 
 I cannot wait to get my hands on:
-<a href="https://docs.soliditylang.org/en/v0.8.7/">Solidity</a>
+<a href="https://docs.soliditylang.org/en/v0.8.7/" display="inline-block">Solidity</a>
 <p> - </p>
 <a href="https://www.cplusplus.com/">C++</a>
 <p> - </p>
