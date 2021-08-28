@@ -1,4 +1,5 @@
-<!-- ![ Alt text](assets/sayHi.gif) -->
+<!-- ![ My gif ](assets/sayHi.gif) -->
+![ My ss ](assets/ss.png)
 
 I am Andrés, a software engineer based in Toronto and Berlin.
 
