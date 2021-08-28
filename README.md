@@ -1,3 +1,3 @@
 Hello there! I'm Andrés
 
-![ Alt text](sayHi.gif)
+![ Alt text](assets/sayHi.gif)
