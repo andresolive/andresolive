@@ -10,3 +10,4 @@ I am Andrés, a software engineer based in Toronto and Berlin.
 <img src="./assets/graphql.png" width="40" display="inline-block">
 <img src="./assets/postgresql.png" width="40" display="inline-block">
 <img src="./assets/mdb.png" width="40" display="inline-block">
+<img src="./assets/python.jpeg" width="40" display="inline-block">
