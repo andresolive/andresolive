@@ -1,7 +1,7 @@
 <!-- ![ My gif ](assets/sayHi.gif) -->
 ![ My ss ](assets/ss.png)
 
-I am Andrés, a software engineer based in Toronto and Berlin.
+Welcome! My name is Andrés. I am a software engineer and fintech professional based in Toronto and Berlin, well-versed in JavaScript and Python technologies.
 
 
 <img src="./assets/js.png" width="40" display="inline-block"> <img src="./assets/typescript.png" width="40" display="inline-block"> <img src="./assets/react.png" width="40" display="inline-block">
@@ -12,3 +12,4 @@ I am Andrés, a software engineer based in Toronto and Berlin.
 <img src="./assets/postgresql.png" width="40" display="inline-block">
 <img src="./assets/mdb.png" width="40" display="inline-block">
 <img src="./assets/python.jpeg" width="40" display="inline-block">
+<img src="./assets/pandas.png" width="40" display="inline-block">
