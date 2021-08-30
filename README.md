@@ -1,7 +1,8 @@
 <!-- ![ My gif ](assets/sayHi.gif) -->
+<h2>Welcome to my GitHub profile ✌️</h2>
+
 ![ My ss ](assets/ss.png)
 
-<h1>Welcome to my GitHub profile!</h1>
 
 Welcome! My name is Andrés. I am a software engineer and fintech professional based in Toronto and Berlin, well-versed in JavaScript and Python technologies.
 
@@ -22,6 +23,10 @@ Some of my favorite technologies are:
 I cannot wait to get my hands on:
 <a href="https://docs.soliditylang.org/en/v0.8.7/" display="inline-block">Solidity</a>  -  <a href="https://www.cplusplus.com/">C++</a>  -  <a href="https://www.java.com/">Java</a>
 
+<h2>What am I up to these days?</h2>
+
 <p>👨‍💻 I am currently working on adding new features to AceOptions and refactoring to TypeScript.</p>
 
 <p>👉 In case you want to know more about me, please check out my <a href="https://www.linkedin.com/in/andresolivez/">LinkedIn</a> profile.</p>
+
+<p>📫 Feel free to reach out anytime at andresolive@gmail.com</p>
