@@ -6,7 +6,7 @@
 
 Welcome! My name is Andrés. I am a software engineer and fintech professional based in Toronto and Berlin, well-versed in JavaScript and Python technologies.
 
-Some of my favorite technologies are:
+Some of my favourite technologies are:
 
 
 <img src="./assets/js.png" width="40" display="inline-block"> <img src="./assets/typescript.png" width="40" display="inline-block"> <img src="./assets/react.png" width="40" display="inline-block">
@@ -29,4 +29,4 @@ I cannot wait to get my hands on:
 
 <p>👉 In case you want to know more about me, please check out my <a href="https://www.linkedin.com/in/andresolivez/">LinkedIn</a> profile.</p>
 
-<p>📫 Feel free to reach out anytime at andresolive@gmail.com</p>
+<p>📫 Feel free to reach out anytime at <a href="mailto:andresolive@gmail.com">andresolive@gmail.com</a></p>
