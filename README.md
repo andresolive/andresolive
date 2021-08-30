@@ -1,11 +1,13 @@
 <!-- ![ My gif ](assets/sayHi.gif) -->
 ![ My ss ](assets/ss.png)
 
+<h1>Welcome to my GitHub profile!</h1>
+
 Welcome! My name is Andrés. I am a software engineer and fintech professional based in Toronto and Berlin, well-versed in JavaScript and Python technologies.
 
 Some of my favorite technologies are:
 
-<!-- <p display="inline-block>Some of my favorite technologies are: </p> -->
+
 <img src="./assets/js.png" width="40" display="inline-block"> <img src="./assets/typescript.png" width="40" display="inline-block"> <img src="./assets/react.png" width="40" display="inline-block">
 <img src="./assets/redux.png" width="40" display="inline-block">
 <img src="./assets/49996085.png" width="40" display="inline-block">
