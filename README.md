@@ -15,7 +15,6 @@ Some of my favorite technologies are:
 <img src="./assets/js.png" width="40" display="inline-block"> <img src="./assets/typescript.png" width="40" display="inline-block"> <img src="./assets/react.png" width="40" display="inline-block">
 <img src="./assets/solidity.png" width="40" display="inline-block">
 <img src="./assets/redux.png" width="40" display="inline-block">
-<img src="./assets/49996085.png" width="40" display="inline-block">
 <img src="./assets/nodejs.png" width="40" display="inline-block">
 <img src="./assets/graphql.png" width="40" display="inline-block">
 <img src="./assets/postgresql.png" width="40" display="inline-block">
@@ -28,7 +27,7 @@ I cannot wait to get my hands on:
 
 <h2>What am I up to these days?</h2>
 
-<p>👨‍💻 I am currently working as an instructor at <a href="http://codeworks.me" target="">Codeworks</a>.</p>
+<p>👨‍💻 I am currently working as an instructor at <a href="http://codeworks.me" target="_blank">Codeworks</a>.</p>
 
 <p>👉 In case you want to know more about me, please check out my <a href="https://www.linkedin.com/in/andresolivez/">LinkedIn</a> profile.</p>
 
