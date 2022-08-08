@@ -22,12 +22,12 @@ Some of my favorite technologies are:
 <img src="./assets/python.jpeg" width="40" display="inline-block">
 
 
-I cannot wait to get my hands on:
-<a href="https://docs.soliditylang.org/en/v0.8.7/" display="inline-block">Solidity</a>  -  <a href="https://www.cplusplus.com/">C++</a>  -  <a href="https://www.java.com/">Java</a>
+I am currently learning:
+<a href="https://www.java.com/">Java</a> - <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" display="inline-block">C#</a>  -  <a href="https://www.cplusplus.com/">C++</a>
 
 <h2>What am I up to these days?</h2>
 
-<p>👨‍💻 I am currently working as an instructor at <a href="http://codeworks.me" target="_blank">Codeworks</a>.</p>
+<p>👨‍💻 I am currently working as a full-stack instructor at <a href="http://codeworks.me" target="_blank">Codeworks</a>.</p>
 
 <p>👉 In case you want to know more about me, please check out my <a href="https://www.linkedin.com/in/andresolivez/">LinkedIn</a> profile.</p>
 
