@@ -13,13 +13,13 @@ Some of my favorite technologies are:
 
 
 <img src="./assets/js.png" width="40" display="inline-block"> <img src="./assets/typescript.png" width="40" display="inline-block"> <img src="./assets/react.png" width="40" display="inline-block">
-<img src="./assets/solidity.png" width="40" display="inline-block">
 <img src="./assets/redux.png" width="40" display="inline-block">
 <img src="./assets/nodejs.png" width="40" display="inline-block">
 <img src="./assets/graphql.png" width="40" display="inline-block">
+<img src="./assets/python.jpeg" width="40" display="inline-block">
+<img src="./assets/solidity.png" width="40" display="inline-block">
 <img src="./assets/postgresql.png" width="40" display="inline-block">
 <img src="./assets/mdb.png" width="40" display="inline-block">
-<img src="./assets/python.jpeg" width="40" display="inline-block">
 
 
 I am currently learning:
