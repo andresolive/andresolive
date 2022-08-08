@@ -13,7 +13,7 @@ Some of my favorite technologies are:
 
 
 <img src="./assets/js.png" width="40" display="inline-block"> <img src="./assets/typescript.png" width="40" display="inline-block"> <img src="./assets/react.png" width="40" display="inline-block">
-<img src="./assets/solidity.jpeg" width="40" display="inline-block">
+<img src="./assets/solidity.png" width="40" display="inline-block">
 <img src="./assets/redux.png" width="40" display="inline-block">
 <img src="./assets/49996085.png" width="40" display="inline-block">
 <img src="./assets/nodejs.png" width="40" display="inline-block">
