@@ -28,7 +28,8 @@ I cannot wait to get my hands on:
 
 <h2>What am I up to these days?</h2>
 
-<p>👨‍💻 I am currently working on adding new features to AceOptions and refactoring to TypeScript.</p>
+<p>👨‍💻 I am currently working as an instructor at Codeworks.</p>
+<img src="./assets/pandas.png" width="40" display="inline-block">
 
 <p>👉 In case you want to know more about me, please check out my <a href="https://www.linkedin.com/in/andresolivez/">LinkedIn</a> profile.</p>
 
