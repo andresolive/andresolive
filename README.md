@@ -28,7 +28,7 @@ I cannot wait to get my hands on:
 
 <h2>What am I up to these days?</h2>
 
-<p>👨‍💻 I am currently working as an instructor at Codeworks.</p> <img src="./assets/cw.png" width="40" display="inline-block" href="http://codeworks.me">
+<p>👨‍💻 I am currently working as an instructor at <a href="http://codeworks.me">Codeworks</a>.</p>
 
 <p>👉 In case you want to know more about me, please check out my <a href="https://www.linkedin.com/in/andresolivez/">LinkedIn</a> profile.</p>
 
