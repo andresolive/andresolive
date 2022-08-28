@@ -7,7 +7,7 @@
 👋 Welcome! My name is Andrés. I am a software engineer and fintech professional based in Toronto, well-versed in JavaScript and Python technologies.
 
 
-👨‍🔬 In a former life I was a chemical engineer, before making the leap to tech and finance.
+👨‍🔬 In a former life I was a Chemical Engineer, before making the leap to tech and finance.
 
 Some of my favorite technologies are:
 
