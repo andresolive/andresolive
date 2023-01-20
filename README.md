@@ -4,7 +4,7 @@
 ![ My ss ](assets/ss.png)
 
 
-👋 Welcome! My name is Andrés. I am a software engineer and fintech professional based in Toronto, well-versed in JavaScript and Python technologies.
+👋 Welcome! My name is Andrés. I am a Software Engineer and fintech professional based in Toronto, well-versed in JavaScript and Python technologies.
 
 
 👨‍🔬 In a former life I was a Chemical Engineer, before making the leap to tech and finance.
