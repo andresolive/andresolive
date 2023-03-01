@@ -27,7 +27,7 @@ I am currently learning:
 
 <h2>What am I up to these days?</h2>
 
-<p>👨‍💻 I am currently working as a Full Stack Developer at <a href="https://agilno.com/" target="">Agilno</a>.</p>
+<p>👨‍💻 I am currently working as a Full Stack Developer at <a href="https://agilno.com/" target="_blank" rel="noopener noreferrer">Agilno</a>.</p>
 
 <p>👉 In case you want to know more about me, please check out my <a href="https://www.linkedin.com/in/andresolivez/">LinkedIn</a> profile.</p>
 
